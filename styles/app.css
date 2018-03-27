@@ -104,6 +104,7 @@ body {
     background-image: url(../assets/coworking.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 	box-sizing: border-box;
 }
 
